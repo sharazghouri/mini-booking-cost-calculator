@@ -1,0 +1,22 @@
+{
+    "name": "solutionbox/wordpress-settings-framework",
+    "keywords": ["wordpess", "wordpress-settings", "wordpress-settings-api", "wordpress-plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sharaz Shahid",
+            "email": "sharazg5@gmail.com"
+        }
+    ],
+    "require": {
+        "woocommerce/woocommerce-sniffs": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {"Solution_Box_Settings\\": "src/"}
+      },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}

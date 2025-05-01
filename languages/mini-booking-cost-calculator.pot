@@ -1,0 +1,57 @@
+# Copyright (C) 2025 Sharaz Shahid
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mini Booking Cost Calculator 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mini-booking-cost-calculator\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-05-01T13:14:43+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: mini-booking-cost-calculator\n"
+
+#. Plugin Name of the plugin
+msgid "Mini Booking Cost Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://github.com/sharazghouri/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Simple Booking cost calculator."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sharaz Shahid"
+msgstr ""
+
+#: src/ShortCodes/Booking_Quote.php:70
+msgid "Name:"
+msgstr ""
+
+#: src/ShortCodes/Booking_Quote.php:76
+msgid "Address:"
+msgstr ""
+
+#: src/ShortCodes/Booking_Quote.php:82
+msgid "Distance (km):"
+msgstr ""
+
+#: src/ShortCodes/Booking_Quote.php:88
+msgid "Number of Rooms:"
+msgstr ""
+
+#: src/ShortCodes/Booking_Quote.php:96
+msgid "Calculate Quote"
+msgstr ""
+
+#. translators: %1$s: customer name, %2$s: formatted price
+#: src/ShortCodes/Booking_Quote.php:137
+msgid "Thanks %1$s! Your estimated booking cost is $%2$s."
+msgstr ""

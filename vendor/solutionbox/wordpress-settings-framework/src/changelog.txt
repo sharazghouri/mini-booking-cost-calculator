@@ -1,0 +1,56 @@
+## [1.2.0] - 2024-07-21
+
+### Added
+
+### Changed
+
+### Removed
+src/assets/css/vendor/fontawesome
+## [1.2.0] - 2024-05-21
+
+### Added
+
+- EDD Licensing support added
+_ Code Format
+
+### Changed
+
+src/Premium/*
+src/SettingsAPI.php
+
+### Removed
+
+## [1.1.0] - 2024-05-21
+
+### Added
+
+- Sortable list New setting Added
+_ Jquery UI CSS Added
+
+### Changed
+
+src/SettingsAPI.php
+src/assets/css/main.css
+src/assets/js/main.js
+src/settings/example-settings.php
+
+### Removed
+
+## [1.1.1] - 2024-04-25
+
+### Added
+
+- v1.1 Pro setting advertisement
+- v1.1 [Tabs settings] tab could be a external link
+
+
+### Changed
+
+src/SettingsAPI.php
+src/assets/css/main.css
+src/settings/example-settings.php
+
+### Removed
+
+
+
