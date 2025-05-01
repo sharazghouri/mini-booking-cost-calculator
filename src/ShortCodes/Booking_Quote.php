@@ -45,10 +45,6 @@ class Booking_Quote {
 
 		// Register the shortcode
 		add_shortcode('booking_quote', array($this, 'render_shortcode'));
-				
-	
-    add_action('init', array($this, 'register_ajax_handlers'));
-    
 		
 	}
 
